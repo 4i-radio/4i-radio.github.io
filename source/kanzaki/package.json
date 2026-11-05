@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild main.tsx --bundle --jsx=automatic --minify --outfile=../../members/kanzaki/app.js && node build-css.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.1",
+    "esbuild": "0.28.0",
+    "postcss": "8.5.14",
+    "tailwindcss": "4.2.1"
+  }
+}
