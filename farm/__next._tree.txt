@@ -1,0 +1,5 @@
+:HL["/farm/_next/static/css/af8ab1aeac53f475.css","style"]
+:HL["/farm/images/tokachi-hero.png","image"]
+:HL["/farm/images/milk-ice-product.png","image"]
+:HL["/farm/images/farm-family-work.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"NKpKZSXoLTIGTz39r1PLU"}

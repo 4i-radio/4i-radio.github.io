@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1872,[],"ViewportBoundary"]
+3:I[1872,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[2569,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"山田牧場 | 北海道・十勝"}],["$","meta","1",{"name":"description","content":"北海道・十勝で家族とスタッフが営む酪農牧場、山田牧場の公式サイトです。"}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/farm/favicon.ico?v=2"}],["$","link","4",{"rel":"icon","href":"/farm/favicon.svg?v=2","type":"image/svg+xml"}],["$","link","5",{"rel":"icon","href":"/farm/favicon-32x32.png?v=2","sizes":"32x32","type":"image/png"}],["$","link","6",{"rel":"apple-touch-icon","href":"/farm/apple-touch-icon.png?v=2","sizes":"180x180","type":"image/png"}],["$","$L5","7",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NKpKZSXoLTIGTz39r1PLU"}

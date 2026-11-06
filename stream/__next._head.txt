@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1872,[],"ViewportBoundary"]
+3:I[1872,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[2569,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"くーるだうん LIVE"}],["$","meta","1",{"name":"description","content":"くーるだうん（@qooldown）のゲーム配信チャンネル。配信時間は不定期です。"}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/stream/qooldown-avatar.jpg"}],["$","link","4",{"rel":"icon","href":"/stream/qooldown-avatar.jpg"}],["$","$L5","5",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"P3kgIpVpolbHd2KL7rPG1"}

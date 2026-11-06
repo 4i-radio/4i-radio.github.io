@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1872,[],"ViewportBoundary"]
+3:I[1872,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[2569,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"蜃気楼ガール | 70 COVER NOTES"}],["$","meta","1",{"name":"description","content":"日食なつこ70曲を4iラジオの人物と関係性に重ねて制作した、非公式ジャケット制作記録。"}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/cover-notes/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/cover-notes/favicon.svg"}],["$","$L5","5",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ldeUGSKp2RBGJhsA5k8RI"}
